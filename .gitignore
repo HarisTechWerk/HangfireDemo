@@ -1,0 +1,14 @@
+# Ignore Visual Studio-related files
+.vs/
+*.user
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore system files
+*.log
+*.DS_Store
+
+# Ignore sensitive files
+appsettings.json
