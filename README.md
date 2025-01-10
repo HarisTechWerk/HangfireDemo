@@ -8,11 +8,6 @@ A **.NET 8** application demonstrating **background task processing** with [Hang
 2. [Features](#features)
 3. [Prerequisites](#prerequisites)
 4. [Getting Started](#getting-started)
-5. [Usage](#usage)
-6. [Deployment to Azure](#deployment-to-azure)
-7. [Project Structure](#project-structure)
-8. [How to Contribute](#how-to-contribute)
-9. [License](#license)
 
 ## Overview
 
